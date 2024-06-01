@@ -1,0 +1,70 @@
+.AllfoodCard {
+    height: 500px;
+    margin-bottom: 30px;
+    margin-top: 10%;
+    display: flex;
+    /* color: rgb(47, 0, 255); */
+    background-color: whitesmoke;
+    border-style: double;
+}
+
+.foodcontainer {
+    display: flex;
+
+}
+
+.food-h6 {
+    text-align: center;
+    font-size: small;
+    font-weight: bold;
+}
+
+.foodimg {
+    height: 200px;
+    width: 100%;
+    object-fit: cover;
+    transition: transform 0.5s ease;
+
+}
+
+.foodimg:hover {
+    transform: scale(1.20);
+
+}
+
+.food-button {
+    margin-right: 5px;
+    margin-left: 10%;
+    padding: 6px;
+    padding-right: 15px;
+    border-radius: 10px;
+    background-color: rgb(160, 3, 3);
+    text-align: center;
+    color: aliceblue;
+
+}
+
+.food-button-update {
+    margin-right: 5px;
+    margin-left: 10%;
+    border-radius: 10px;
+    background-color: #04AA6D;
+    text-align: center;
+    color: aliceblue;
+    padding-right: 15px;
+    padding: 6px;
+}
+
+.food-button-update:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+.food-button:hover {
+
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.food-footer {
+    margin: 10px;
+}

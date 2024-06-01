@@ -1,0 +1,78 @@
+.div-dash {
+    height: 250px;
+    width: 300px;
+    background: #ffafcc;
+    color: black;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 20px;
+    font-size: xx-large;
+
+
+}
+
+.div-dash2 {
+    height: 250px;
+    width: 300px;
+    background: #e0aaff;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 20px;
+    font-size: xx-large;
+}
+
+.dashthree {
+    height: 250px;
+    width: 300px;
+    background: #bfd200;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    margin-top: 50px;
+    border-radius: 20px;
+    font-size: xx-large;
+}
+
+.div-card {
+    display: flex;
+}
+
+.div-container {
+    display: flex;
+    margin-left: 50px;
+    width: 90vw;
+    justify-content: space-between;
+
+}
+
+.h6-dash {
+    margin-left: 100px;
+    margin-top: 40px;
+    /* width: 700px; */
+}
+
+.img-dash {
+    height: 400px;
+    display: flex;
+    justify-content: center;
+
+}
+
+
+.img-div-container {
+    height: 250px;
+    object-fit: cover;
+    width: 60%;
+    margin-top: 10px;
+    display: block;
+}

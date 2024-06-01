@@ -1,0 +1,30 @@
+.div {
+    height: 90vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-image: url("../Imges/pexels-pixabay-327136.jpg");
+    /* background-color:rgb(244 114 182); */
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+
+.form-control {
+    width: 380px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+/* .form-control:hover{
+    background-color: rgb(150, 111, 243);
+    cursor: pointer;
+} */
+.btn{
+    margin-left: 160px;
+    
+}
+.form-control-category{
+    margin-left: -5px;
+    width: 390px;
+    margin-bottom: 15px;
+}

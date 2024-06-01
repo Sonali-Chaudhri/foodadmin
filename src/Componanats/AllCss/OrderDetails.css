@@ -1,0 +1,45 @@
+.order-container {
+    display: flex;
+}
+
+.order-Details {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 50%;
+}
+
+.order-items {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    width: 50%;
+}
+
+.formcheck {
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.order-card {
+    border: 1px solid red;
+    background-color: antiquewhite;
+    width: 20vw;
+    margin: 20px;
+    align-content: center;
+    margin-top: 20%;
+
+}
+
+.order-card img {
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.order-button {
+    background-color: #007bff
+}

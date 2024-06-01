@@ -1,0 +1,15 @@
+.style{
+  font-weight: bolder;
+  font-style: oblique;
+  text-align: center;
+  text-decoration: none;
+  color: black;
+ padding: 10px 50px;
+ border-radius: 5px;
+  
+}
+.style:hover{
+  color: white; 
+  background-color: #007bff;
+
+}
